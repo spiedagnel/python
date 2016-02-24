@@ -4,7 +4,7 @@ list = LinkedList()
 
 list.insertEnd(12)
 list.insertEnd(122)
-list.insertEnd(3)
+list.insertEnd(32)
 list.insertStart(31)
 
 list.traverseList()
